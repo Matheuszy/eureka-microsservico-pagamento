@@ -56,3 +56,5 @@ Windows PowerShell
 
 Observações
 Esta aplicação funciona como Eureka Server, portanto normalmente ela é usada como base para outros microserviços se registrarem
+
+👨‍💻 Autor Desenvolvido por Matheus
